@@ -5,8 +5,7 @@ BudgetBee - Smart Expense Tracker App
 
 BudgetBee is a friendly and efficient financial companion designed to help users track their expenses, set budgets, and save money with ease. Built with Kotlin and developed in Android Studio, this mobile application offers an intuitive interface and smart features that empower users to take full control of their personal finances.
 
-Key Features:
-
+🚀 Key Features:
 Expense Tracking: Quickly log daily transactions on-the-go for effortless financial monitoring.
 
 Budget Planning: Set monthly spending limits across different categories to manage your budget efficiently.
@@ -15,10 +14,12 @@ Smart Alerts: Receive timely notifications to prevent overspending and stay with
 
 Savings Goals: Plan, track, and achieve your savings targets for future purchases or financial milestones.
 
-Technologies Used:
+🛠️ Technologies Used:
 Language: Kotlin
 
 Platform: Android (developed using Android Studio)
+
+UI Components: Material Design for a modern and user-friendly interface
 
 ![Screenshot (757)](https://github.com/user-attachments/assets/ef8381a8-19c7-4058-8d48-4dc8531c5576)         ![Screenshot (758)](https://github.com/user-attachments/assets/0bef99cf-3e23-48d5-a629-7167d3c9140b)
 
